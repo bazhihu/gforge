@@ -1,3 +1,9 @@
+# 生成 didi sql mod 脚手架
+
+```
+使用之前要更改结构体注释
+```
+
 #### gforge
 
 `gforge` is a cli tool based on [gendry](github.com/didi/gendry), it generates golang struct according to the table name which could ease your burden. Even gforge can generate the complete DAO layer for you.
